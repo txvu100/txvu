@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trinh Vu (Isaac)
-- Computer Science student at Unoversity of Central Oklahoma 
+- Computer Science student at University of Central Oklahoma 
 
 <!---
 txvu/txvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
