@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Trinh Vu (Isaac)
+- 👋 Hi, I’m Trinh Vu
 - Computer Science student at University of Central Oklahoma 
 
 <!---
