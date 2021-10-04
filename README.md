@@ -2,7 +2,7 @@
 
 Computer Science student at the University of Central Oklahoma. \
 In my spare time, I'm working on my garage lab that includes several exciting projects. \
-I named it 3AM Lab (Get it? It's my productive time). The ultimate idea is to automate any tedious tasks that I can think of. \
+I named it 3AM Lab (my productive time :D). The ultimate idea is to automate any tedious and bpring tasks that I can think of. \
 Hopefully, it will help other people and me save some time to pursue whatever hobby we've been fantasizing about.
 
 Happy coding!!!
