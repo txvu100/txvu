@@ -1,6 +1,4 @@
-👋 Hi, I’m Trinh Vu (a.k.a. Isaac)
-
-// TODO: Put something inspirational here for recruiters
+👋 Hi, I’m Trinh Vu (Isaac)
 
 <!---
 txvu/txvu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
